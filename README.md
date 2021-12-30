@@ -36,5 +36,5 @@
 <br>
 
 ## __<font color='salmon'> Notes</font>__
-* This project was developed on google colab, using GPU.
+* This project is using GPU on google colab.
 * To reproduce this code it is suggested to use a GPU as the computational time is too high when run on CPU.
