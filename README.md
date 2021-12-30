@@ -29,7 +29,6 @@
     * getDataset
     * getTrainValidSampler
     * NetworkCnn
-<br>
 * Training without data augmentation
 * Training with data augmentation
 * Conclusion
