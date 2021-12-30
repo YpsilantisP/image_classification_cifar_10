@@ -38,3 +38,5 @@
 ## __<font color='salmon'> Notes</font>__
 * This project is using GPU on google colab.
 * To reproduce this code it is suggested to use a GPU as the computational time is too high when run on CPU.
+* Install project requirements
+   * `pip install -r requirements.txt` 
