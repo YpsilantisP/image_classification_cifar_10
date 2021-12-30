@@ -15,7 +15,7 @@
 
 ## __<font color='salmon'> The Data</font>__
 * This project uses the CIFAR-10 dataset from pytorch (university of Toronto)
-* This dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
+* This dataset has 60000 32x32 colour images. There are 50000 training images and 10000 test images.
 * It has the classes: `airplane`, `automobile`, `bird`, `cat`, `deer`, `dog`, `frog`, `horse`, `ship`, `truck`. 
 * [CIFAR10 pytorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html?highlight=cifar)
 <br>
@@ -29,7 +29,6 @@
     * getDataset
     * getTrainValidSampler
     * NetworkCnn
-<br>
 * Training without data augmentation
 * Training with data augmentation
 * Conclusion
@@ -37,5 +36,5 @@
 <br>
 
 ## __<font color='salmon'> Notes</font>__
-* This project was developed on google colab, using GPU.
+* This project is using GPU on google colab.
 * To reproduce this code it is suggested to use a GPU as the computational time is too high when run on CPU.
