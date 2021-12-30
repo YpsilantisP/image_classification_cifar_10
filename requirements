@@ -1,7 +1,6 @@
-requests
+cv2
+torch
+math
+torchvision
 numpy
-openpyxl
-pandas
-seaborn
-sklearn
-matplotlib
+PIL
